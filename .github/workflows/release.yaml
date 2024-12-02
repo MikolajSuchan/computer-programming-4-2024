@@ -1,4 +1,4 @@
-name: Run Unit Tests
+name: Package
 on: 
   push:
     tags:
