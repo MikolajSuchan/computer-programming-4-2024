@@ -12,3 +12,4 @@ jobs:
       
       - run: echo "ls-la"
       - run: "tree ./"
+      - run: "mkdir bla/bla/bla"
